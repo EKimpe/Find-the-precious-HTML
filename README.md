@@ -20,13 +20,38 @@ The HTML version of a wireframe project.
         <li><a class="menulink" href="#Contactus">Contact us</a></li>
       </ul>
     </nav>
+    <a href="https://placeholder.com"><img src="https://via.placeholder.com/250x250" alt=""></a>
   </header>
   <main>
     <section>
       <h2 id="Fellows" class="maintitle">Fellows</h2>
       <h3>Fellows wanted dead (or alive, if you want to eat them later)</h3>
-      <p> here lies the fellows (pics, description..)</p>
-
+     <div>Most wanted</div>
+			<div>Most dangerous</div>
+			<div>Already captured</div>
+			<article>
+				<a href="https://placeholder.com"><img src="https://via.placeholder.com/160x160" alt=""></a>
+				<h3>The Wizard</h3>
+				<p>Small description ...
+				</p>
+			</article>
+			
+			<article>
+				<a href="https://placeholder.com"><img src="https://via.placeholder.com/160x160" alt=""></a>
+				<h3>Hobbit #3</h3>
+				<p>Small description ...
+				</p>
+			</article>
+			
+			<article>
+				<a href="https://placeholder.com"><img src="https://via.placeholder.com/160x160" alt=""></a>
+				<h3>Yummy Dwarf</h3>
+				<p>Small description ...
+				</p>
+			</article>
+		</section>
+    
+    <section>
       <h2 id="Getmyrewards" class="maintitle">Get my rewards</h2>
       <h3>I have captured one of them, how do I get my rewards ?</h3>
 
@@ -34,9 +59,21 @@ The HTML version of a wireframe project.
         mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra
         tempor.
       </p>
-
+      </section>
+      
+      <section>
       <h2 id="BestHunters" class="maintitle">Best Hunters</h2>
-      <p>Profile pic, likes, how many captures; second profile pic, likes, how many captures</p>
+      <article>
+				<a href="https://placeholder.com"><img src="https://via.placeholder.com/70x70" alt=""></a>
+				<p>ElvesKiller22 <br/> 2 captures - Profile
+				</p>
+			</article>
+			
+			<article>
+				<a href="https://placeholder.com"><img src="https://via.placeholder.com/70x70" alt=""></a>
+				<p>Goblin45 <br/> 1 capture - Profile
+				</p>
+			</article>
 
     </section>
 
